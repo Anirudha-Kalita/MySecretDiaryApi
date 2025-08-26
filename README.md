@@ -23,5 +23,5 @@ Follow these steps to get the project running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://your-repo-url-here.git](https://your-repo-url-here.git)
+git clone [https://github.com/Anirudha-Kalita/MySecretDiaryApi.git]
 cd MySecretDiaryApi
